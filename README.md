@@ -2,7 +2,7 @@
 
 **AI product leader focused on responsible AI, model safety, and applied machine learning.**
 
-I'm a Senior Product Manager at Amazon working on Responsible AI for Amazon Nova. I turn research, customer needs, and risk requirements into products that teams can use in practice—including configurable safeguards, content moderation, model evaluation, and launch governance.
+I'm a Senior Product Manager at Amazon working on Responsible AI for Amazon Nova. I turn research, customer needs, and model safeguard requirements into runtime, GA, scalable products. These include configurable safeguards, content moderation controls and classifiers, model evaluations, and launch governance.
 
 Before generative AI, I led products across Amazon SageMaker Canvas, Amazon Forecast, and MSCI's portfolio risk and analytics platforms.
 
