@@ -15,7 +15,7 @@ Before generative AI, I led products across Amazon SageMaker Canvas, Amazon Fore
 
 ## Selected builds
 
-### [Options Trading Tracker](https://github.com/dsinnreich/options-tracker)
+### [Portfolio Tracker](https://github.com/dsinnreich/options-tracker)
 
 A portfolio-management tool for tracking options positions, identifying roll opportunities, and supporting trade decisions.
 
