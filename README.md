@@ -15,6 +15,10 @@ Before generative AI, I led products across Amazon SageMaker Canvas, Amazon Fore
 
 ## Selected builds
 
+### [Policy Classifier](https://github.com/dsinnreich/policy-classifier)
+
+An evaluation workbench for comparing how OpenRouter and local models classify prompts against versioned responsible AI policies, including severity, confidence, consistency, quality, cost, and latency metrics.
+
 ### [Portfolio Tracker](https://github.com/dsinnreich/options-tracker)
 
 A portfolio-management tool for tracking options positions, identifying roll opportunities, and supporting trade decisions.
