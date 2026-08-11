@@ -19,7 +19,7 @@ Before generative AI, I led products across Amazon SageMaker Canvas, Amazon Fore
 
 A portfolio-management tool for tracking options positions, identifying roll opportunities, and supporting trade decisions.
 
-### [Financial Planner](https://github.com/dsinnreich/financial-planner)
+### [Model Arena](https://github.com/dsinnreich/model-arena)
 
 A browser-based tool for exploring personal financial-planning scenarios and long-term tradeoffs.
 
