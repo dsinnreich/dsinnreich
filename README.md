@@ -1,16 +1,13 @@
 # Dan Sinnreich
 
-**AI product leader focused on responsible AI, model safety, and applied machine learning.**
+I'm a PMT at Amazon building Responsible AI controls and classifiers for Amazon Nova. I turn research, customer needs, and model safeguard requirements into scalable products and processes. These include configurable safeguards for trusted customers, content moderation controls and classifiers, model evaluations, and launch governance.
 
-I'm a PMT at Amazon working on Responsible AI for Amazon Nova. I turn research, customer needs, and model safeguard requirements into runtime, GA, scalable products. These include configurable safeguards, content moderation controls and classifiers, model evaluations, and launch governance.
-
-Before generative AI, I led products across Amazon SageMaker Canvas, Amazon Forecast, and MSCI's portfolio risk and analytics platforms.
+Before Nova, I led products across Amazon SageMaker Canvas, Amazon Forecast, and MSCI's portfolio risk and analytics platforms.
 
 ## What I work on
 
 - **Responsible AI:** Model safeguards, content moderation, evaluations, and risk governance
 - **AI/ML products:** Turning research into usable enterprise capabilities
-- **Quantitative products:** Portfolio analytics, forecasting, and decision-support tools
 - **Product leadership:** 0-to-1 development, strategy, pricing, and go-to-market
 
 ## Selected builds
